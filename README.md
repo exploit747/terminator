@@ -29,3 +29,4 @@
 of this tool, remember that attacking targets without prior
 consent is illegal and punished by law.
 
+untuk menjalankan exploitnya/listenernya, jalankan dulu : service postgresql start dalam terminalnya
